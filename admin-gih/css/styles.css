@@ -1,0 +1,80 @@
+#info {
+	font-size: 18px;
+	background: #ffffff;
+	width: 350px;
+	border-radius: 6px;
+	text-align: center;
+	color: #666666;
+	border: solid 1px #666666;
+	margin: auto;
+	padding: 3px;
+
+}
+#enviar {
+	background: #fff;
+	font-size: 22px;
+	text-align: left;
+	color: #000;
+	margin: 10px 60px;
+	padding:3px 10px 3px 10px;
+	border-radius: 6px;
+}
+#respuesta {
+	margin: auto 60px;
+}
+#googleMap {
+	margin: 10px auto;
+	width:90%;
+	height:280px;
+	border: 2px solid #666666; 
+	border-radius: 6px;
+}
+#map {
+	margin: 10px auto;
+	width:90%;
+	height:280px;
+	border: 2px solid #666666; 
+	border-radius: 6px;
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+
+font-size: 1.5em;
+
+}
+
+.categoria-label {
+    padding-right: 40%;
+}
+
+.pre_edit-sm {
+    color: #ccc;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    right: 60px;
+}
+
+.pre_erase-sm {
+    color: #ccc;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 15px 0 5px;
+    position: absolute;
+    right: 30px;
+}
+
+.pre_plus-sm {
+    color: #ccc;
+    cursor: pointer;
+    font-size: 16px;
+    margin : 0 0 0 15px;
+    position: absolute;
+    right: 30px;
+}
+
+.form-control{
+	border-radius: 0;
+    border: none;
+    border-bottom: #c8241b solid 1px;
+}

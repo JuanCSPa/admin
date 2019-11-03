@@ -1,0 +1,6 @@
+[27-Dec-2016 15:50:23 America/Chicago] PHP Fatal error:  Class 'DBManager' not found in /home/vellvess/public_html/zerga/nw-admin/sc-user/model/usuario.class.php on line 6
+[27-Dec-2016 15:50:50 America/Chicago] PHP Fatal error:  Class 'DBManager' not found in /home/vellvess/public_html/zerga/nw-admin/sc-user/model/usuario.class.php on line 6
+[27-Dec-2016 15:54:32 America/Chicago] PHP Fatal error:  Class 'DBManager' not found in /home/vellvess/public_html/zerga/nw-admin/sc-user/model/usuario.class.php on line 6
+[27-Dec-2016 15:56:19 America/Chicago] PHP Fatal error:  Class 'DBManager' not found in /home/vellvess/public_html/zerga/nw-admin/sc-user/model/usuario.class.php on line 6
+[27-Dec-2016 15:57:00 America/Chicago] PHP Fatal error:  Class 'DBManager' not found in /home/vellvess/public_html/zerga/nw-admin/sc-user/model/usuario.class.php on line 6
+[10-Jan-2017 09:55:05 America/Chicago] PHP Parse error:  syntax error, unexpected '$GLOBALS' (T_VARIABLE) in /home/vellvess/public_html/zerga/nw-admin/sc-user/control/login.ctrl.php on line 9

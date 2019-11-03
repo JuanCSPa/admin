@@ -1,0 +1,87 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 15/08/2017 17:56
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-food-7:before { content: "\f100"; }
+.flaticon-food-6:before { content: "\f101"; }
+.flaticon-steak-1:before { content: "\f102"; }
+.flaticon-food-5:before { content: "\f103"; }
+.flaticon-food-4:before { content: "\f104"; }
+.flaticon-cheese-2:before { content: "\f105"; }
+.flaticon-food-3:before { content: "\f106"; }
+.flaticon-food-2:before { content: "\f107"; }
+.flaticon-food-1:before { content: "\f108"; }
+.flaticon-covered-food-tray-on-a-hand-of-hotel-room-service:before { content: "\f109"; }
+.flaticon-chef-hat-with-cutlery-restaurant-symbol:before { content: "\f10a"; }
+.flaticon-steak:before { content: "\f10b"; }
+.flaticon-taco:before { content: "\f10c"; }
+.flaticon-tacos-of-mexico:before { content: "\f10d"; }
+.flaticon-quesadilla:before { content: "\f10e"; }
+.flaticon-taco-typical-food-of-mexico:before { content: "\f10f"; }
+.flaticon-cheese-1:before { content: "\f110"; }
+.flaticon-hamburguer:before { content: "\f111"; }
+.flaticon-cheese:before { content: "\f112"; }
+.flaticon-nachos:before { content: "\f113"; }
+.flaticon-food:before { content: "\f114"; }
+.flaticon-soup-bowl:before { content: "\f115"; }
+.flaticon-bowl-with-vegetables:before { content: "\f116"; }
+.flaticon-ramen:before { content: "\f117"; }
+    
+    $font-Flaticon-food-7: "\f100";
+    $font-Flaticon-food-6: "\f101";
+    $font-Flaticon-steak-1: "\f102";
+    $font-Flaticon-food-5: "\f103";
+    $font-Flaticon-food-4: "\f104";
+    $font-Flaticon-cheese-2: "\f105";
+    $font-Flaticon-food-3: "\f106";
+    $font-Flaticon-food-2: "\f107";
+    $font-Flaticon-food-1: "\f108";
+    $font-Flaticon-covered-food-tray-on-a-hand-of-hotel-room-service: "\f109";
+    $font-Flaticon-chef-hat-with-cutlery-restaurant-symbol: "\f10a";
+    $font-Flaticon-steak: "\f10b";
+    $font-Flaticon-taco: "\f10c";
+    $font-Flaticon-tacos-of-mexico: "\f10d";
+    $font-Flaticon-quesadilla: "\f10e";
+    $font-Flaticon-taco-typical-food-of-mexico: "\f10f";
+    $font-Flaticon-cheese-1: "\f110";
+    $font-Flaticon-hamburguer: "\f111";
+    $font-Flaticon-cheese: "\f112";
+    $font-Flaticon-nachos: "\f113";
+    $font-Flaticon-food: "\f114";
+    $font-Flaticon-soup-bowl: "\f115";
+    $font-Flaticon-bowl-with-vegetables: "\f116";
+    $font-Flaticon-ramen: "\f117";
