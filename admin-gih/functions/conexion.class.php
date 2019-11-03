@@ -20,11 +20,11 @@
 
 			$this->BaseDatos = "571175_gihnet";
 
-			$this->Servidor  = "mariadb-164.wc2.phx1.stabletransit.com";
+			$this->Servidor  = "http:127.0.0.1/respaldos/admin-gih/";
 
-			$this->Usuario 	 = "571175_gihnet";
+			$this->Usuario 	 = "root";
 
-			$this->Clave	 = "G1h89\$net2018";
+			$this->Clave	 = "";
 
 		}
 
